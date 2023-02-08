@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rijafatima-1214&label=Profile%20views&color=0e75b6&style=flat" alt="rijafatima-1214" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development/Mern And Mean Stack**
 
-- 🌱 I’m currently learning **Mern And Mean Stack**
+- 🌱 I’m currently doing Bs in Bioinformatics from Comsats University,Isb.
 
-- 👨‍💻 All of my projects are available at [personal website](personal website)
+- 👨‍💻 All of my projects are available at https://github.com/Rijafatima-1214
 
 - 💬 Ask me about **Full Stack Web Development**
 
