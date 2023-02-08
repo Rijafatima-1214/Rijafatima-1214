@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Full Stack Web Development**
 
-- 📫 How to reach me **Rijafatima8987@gmail.com**
+- 📫 You can also contact me on :**Rijafatima8987@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400px" src="https://th.bing.com/th/id/OIP.uGIdIh7Um_O_Cry35-_uhwHaFj?pid=ImgDet&rs=1">
